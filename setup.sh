@@ -58,10 +58,16 @@ export PATH="$bin_dir:$HOME/.cargo/bin:$PATH"
 
 if ! command -v qmd >/dev/null 2>&1; then
   qmd_installer="$(mktemp)"
-  curl -fsSL https://sh.qntx.fun/qmd -o "$qmd_installer"
-  sh "$qmd_installer"
+  if curl -fsSL https://sh.qntx.fun/qmd -o "$qmd_installer"; then
+    sh "$qmd_installer" || true
+  fi
   rm -f "$qmd_installer"
   export PATH="$HOME/.cargo/bin:$PATH"
+  # Upstream ships no release binaries, so fall back to building from source.
+  if ! command -v qmd >/dev/null 2>&1 && command -v cargo >/dev/null 2>&1; then
+    cargo install --git https://github.com/qntx-labs/qmd --locked qmd-cli
+    export PATH="$HOME/.cargo/bin:$PATH"
+  fi
 fi
 
 if ! command -v qmd >/dev/null 2>&1; then

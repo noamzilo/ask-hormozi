@@ -6,8 +6,8 @@ agents a skill for answering questions with video-level, timestamped sources.
 Installation builds only the local QMD index; it does not download video,
 audio, captions, or transcripts.
 
-The current corpus snapshot contains 2,039 videos, 2,039 readable transcripts,
-and 9,330 timestamped segments.
+The current corpus snapshot contains 2,610 videos, 2,611 readable transcripts,
+and 13,946 timestamped segments.
 
 ## What it does
 
@@ -60,8 +60,10 @@ bash core/scripts/hq-ask-hormozi refresh
 ## Standalone install
 
 Requirements: macOS or Linux, Python 3.10+, and `curl`. The setup script
-installs the package in an isolated virtual environment and installs QMD from
-its official installer when QMD is not already available.
+installs the package in an isolated virtual environment and installs QMD when it
+is not already available. QMD currently publishes no prebuilt release binaries,
+so setup falls back to building it from source, which additionally needs a Rust
+toolchain (`rustup`) and `pkg-config`. This project targets the QMD 0.5.x CLI.
 
 ```bash
 git clone https://github.com/poseljacob/ask-hormozi.git

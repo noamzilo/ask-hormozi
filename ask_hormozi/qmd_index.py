@@ -81,6 +81,16 @@ _QUESTION_STOPWORDS = {
 }
 
 
+def _qmd_index_path() -> Path:
+    path = Path.home() / ".local" / "share" / "ask-hormozi" / "index.sqlite"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    return path
+
+
+def _qmd(*args: str) -> list[str]:
+    return ["qmd", "--index", str(_qmd_index_path()), *args]
+
+
 def index_corpus(
     data_dir: Path, *, collection: str = "ask-hormozi"
 ) -> None:
@@ -96,33 +106,33 @@ def index_corpus(
         )
     mask = "segments/**/*.md" if has_segments else "episodes/*.md"
 
-    listing = _run(["qmd", "collection", "list"]).stdout
-    if re.search(rf"^{re.escape(collection)} \(qmd://", listing, re.MULTILINE):
-        _run(["qmd", "collection", "remove", collection])
+    listing = _run(_qmd("collection", "list")).stdout
+    if re.search(rf"^{re.escape(collection)}\s", listing, re.MULTILINE):
+        _run(_qmd("collection", "remove", collection))
     _run(
-        [
-            "qmd",
+        _qmd(
             "collection",
             "add",
             str(data_dir),
             "--name",
             collection,
-            "--mask",
+            "--pattern",
             mask,
-        ]
+        )
     )
+    _run(_qmd("update"))
     _run(
-        [
-            "qmd",
+        _qmd(
             "context",
             "add",
-            f"qmd://{collection}/",
+            collection,
+            "/",
             (
                 "Timestamped transcripts from MoreMozi. "
                 "Use passages as attributed source material and cite each "
                 "video's timestamp_url."
             ),
-        ],
+        ),
         check=False,
     )
 
@@ -142,18 +152,13 @@ def search_corpus(
     aggregated: dict[str, dict[str, Any]] = {}
     for candidate_index, search_query in enumerate(query_candidates):
         completed = _run(
-            [
-                "qmd",
-                "search",
+            _qmd(
+                "fts",
                 search_query,
-                "--collection",
-                collection,
                 "--limit",
                 str(raw_limit),
-                "--format",
-                "json",
-                "--line-numbers",
-            ]
+                "--json",
+            )
         )
         payload = json.loads(completed.stdout)
         raw_results = (
@@ -161,6 +166,9 @@ def search_corpus(
         )
         for result_rank, item in enumerate(raw_results, start=1):
             if not isinstance(item, dict):
+                continue
+            item = _flatten_hit(item)
+            if item.get("collection") not in (None, "", collection):
                 continue
             qmd_path = str(
                 item.get("path")
@@ -229,6 +237,15 @@ def render_markdown_results(
             ]
         )
     return "\n".join(lines).rstrip() + "\n"
+
+
+def _flatten_hit(item: dict[str, Any]) -> dict[str, Any]:
+    doc = item.get("doc")
+    if not isinstance(doc, dict):
+        return item
+    merged = dict(doc)
+    merged.update({k: v for k, v in item.items() if k != "doc"})
+    return merged
 
 
 def _enrich_result(
