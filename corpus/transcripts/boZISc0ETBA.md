@@ -1,0 +1,34 @@
+---
+episode_id: "boZISc0ETBA"
+title: "\"I Have Zero Backend On My Best-Selling Offer. What Do I Do?\""
+published: "2026-08-08"
+duration_seconds: 308
+episode_url: "https://www.youtube.com/watch?v=boZISc0ETBA"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "I Have Zero Backend On My Best-Selling Offer. What Do I Do?"
+
+Video: [https://www.youtube.com/watch?v=boZISc0ETBA](https://www.youtube.com/watch?v=boZISc0ETBA)
+Published: 2026-08-08
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=boZISc0ETBA&t=0s)
+
+Yes sir. >> Yeah, good day. I've got uh two real quick bits of feedback for you actually and one question. First one is since you change your content strategy, I am a 100x more engaged with your content. So, awesome. Uh secondly is actually yesterday has hit really hard for me compared to today uh and >> What was my video yesterday? >> that van process was worth the whole price of the trip for me. We paid 20k to get here from Australia and all the rest of it. So, that was that was unbelievable yesterday. And uh something you said to me yesterday which you've said to me like 50 times already, but it only sunk in yesterday was the easiest thing to sell someone is more of what they already bought. >> Yeah. >> And in that van process, I identified like straight away, you know, flashing red lights, the biggest thing we got to fix is our LTGP is got to increase. And we don't we currently sell a 5k front end which is a certification >> For what? >> for Pilates. We teach online uh we teach people to >> Instructors. >> We teach people to be instructors. >> Cool. Okay. >> Uh we currently have zero back end on that. And uh so, the obvious thing is sell them more of what they already bought. And uh so, my question is uh to you because, you know, I heard what you said about the school community and what you found was you don't want to overwhelm people. So, you do like one live call a month, one piece of content a week. Uh so, I want to like our front end is priced at 5k. I want to price the back end higher because obviously to you got to less than 100% uptake. So, you want to double your LTGP, you got to have have a higher price. So, how would you price it and how would you
+
+## [01:30](https://www.youtube.com/watch?v=boZISc0ETBA&t=90s)
+
+you know, how would you structure it? >> So, you're at 5k. >> Yes. >> Just I would do this. So, there's basically two options. So, yesterday I talked about like please have some sort of auto renewal everyone. So, this would be applying to you. So, the auto renewal level I'd probably do it like 997 per year. And so, think about this like you're in the fitness world. So, like CrossFit for example, like you basically just get the name and then you have have certified through L1 or whatever. That model works if you defend the brand. And there are some benefits that you can get like NSCA, if you're familiar with them, they they certify personal trainers. And the model there is you pay for whatever your boot camp is, it's 2 days, and you get a certification if you pass the test, awesome. Now you're allowed to be a personal trainer. And then they have an annual renewal that's significantly less, 500 bucks, whatever, and that allows you to say that you are an NSCA personal certified personal trainer. And they stack a couple benefits here. So they say we will give you insurance up to a million dollars on any injury that occurs. And so then personal trainers who are always afraid of like, what if I hurt somebody? It's like, don't worry, we got you covered. And so for 500 bucks a year, they have the insurance and they get to say the name. And so and most people, especially beginners, think they need certifications. We don't know that by the way, that's not true. But they think that and so sure, we can sell that to them. Now, the ascension part is probably going to be I'm going to guess cuz I don't think Pilates instructors make a ton. Um I'm going to best it I'm going to guess it's somewhere in the like trying to just if you just kept people, honestly, like in five to five to 10K a year.
+
+## [03:00](https://www.youtube.com/watch?v=boZISc0ETBA&t=180s)
+
+That would be the price point that I'd be looking at um for the Pilates instructors. And so when you sign someone up, you say, "Hey, it's 5,000 bucks and renews annually at 1,000. Here's the benefits of of renewing annually." Oh, by the way, global insurance policies you can run like 90% margins on this. So and the certification margin is 100%. So that's cool. Um so they could just do that and then get a community, very simple delivery. And then the upper level is like, "Hey, uh we meet twice a year and we talk about the strategies of like increasing your income, getting more side clients, um and like the more businessy stuff." And I think in that price point you'll probably be okay. And so either So this is something I would test. I could start at five and then say it renews annually at five and you get these other benefits. And if they're like, "Nah, dog." And you hear that a lot of nah dogs, then then just make the the standard the 1K and then upsell them, you know, a month or two in. >> So, you wouldn't do like a one-off 5 or 10K, you know, follow on program. You'd You'd make it renewing. >> Yeah, I like recurring. Now, if you do that, so like this is how you like this like Okay, how do I sell that, right? So, if you're if you're running, call it three events a year for your base, right before you have your events, you hit up everybody who's been sold into this, but hasn't been sold into this, right as the events come up. And then they have this nice deadline that they have to buy have to buy have to buy and you give some sort of incentive. So, a nice one would be like 5K, we'll put it towards the 10, which means it's five if you do it before the first event that we have.
+
+## [04:30](https://www.youtube.com/watch?v=boZISc0ETBA&t=270s)
+
+>> Or you could come to the event for 5K. >> So, I'm not sure I follow, but >> Well, does I Does the event have a cost if they want to attend it? >> No, they get it as a member of Members get it. >> Right. >> And so, you got to pay to be a member. That's what I would do. That's a very simple model. If you like this video and you're business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely free. And since you're business owner, I appreciate you and uh enjoy.

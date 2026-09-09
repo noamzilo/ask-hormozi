@@ -1,13 +1,13 @@
 ---
 episode_id: "cWuf_f8CCjw"
-title: "Persuasion vs Manipulation: The Real Line"
+title: "Where's the Line Between Persuasion and Manipulation?"
 episode_url: "https://www.youtube.com/watch?v=cWuf_f8CCjw"
 duration_seconds: 294
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Persuasion vs Manipulation: The Real Line
+# Where's the Line Between Persuasion and Manipulation?
 
 Video: [https://www.youtube.com/watch?v=cWuf_f8CCjw](https://www.youtube.com/watch?v=cWuf_f8CCjw)
 Duration: 00:04:54

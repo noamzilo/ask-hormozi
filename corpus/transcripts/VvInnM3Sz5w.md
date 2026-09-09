@@ -1,0 +1,38 @@
+---
+episode_id: "VvInnM3Sz5w"
+title: "20,000 Leads a Month and Only 80 Customers"
+published: "2026-08-18"
+duration_seconds: 363
+episode_url: "https://www.youtube.com/watch?v=VvInnM3Sz5w"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# 20,000 Leads a Month and Only 80 Customers
+
+Video: [https://www.youtube.com/watch?v=VvInnM3Sz5w](https://www.youtube.com/watch?v=VvInnM3Sz5w)
+Published: 2026-08-18
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=VvInnM3Sz5w&t=0s)
+
+Matthias, you just came in. Okay. Matthias, thank you for donating 800 bucks. Let's rock. Sell your knowledge. Okay. Okay. Okay. >> Hello. >> Sell your knowledge. Knowledge. >> Alex. >> Knowledge. Okay, we have 5 minutes. We have 5 minutes. Timer's on. Top line, bottom line, biggest problem. >> All right. So, 300k top line, 240 bottom line. Um info consulting business in Argentina. Basically >> Is that per month or per annual? >> No, no, per month. Yeah, yeah. So, basically main issue right now is that we have a lot of leads. We have 20 to 30,000 leads a month. >> Okay. >> But, we cannot filter them. >> Okay. >> We have two sellers. We only do IG organic short form content. >> All right. >> Uh we cannot filter them. We book a lot of calls. But, only 50% of the calls show up. And we have I mean, that deal that deal boring, you know. So, yeah, that's the main issue right now. >> Well, okay. So, I'm going to I'm going to zoom out for a second. So, you got 20,000 leads a month. You get You book calls and 50% of calls show. >> Uh yeah, basically. >> I mean, like >> It's pretty good. >> Yeah, you're not like you're not screwed. You know what I mean? Like are there like you'll get the you'll get the lead nurture playbook that has all the things that we learned. Um so, that's coming in the mail next, you know, well, you're in Argentina, so you said? >> Yeah. I mean, I'm Miami. Yeah, I'll >> Oh, you're Mia- Oh, you're Miami. Miami.
+
+## [01:30](https://www.youtube.com/watch?v=VvInnM3Sz5w&t=90s)
+
+Okay, fine. Then it'll it'll get there in you know, next couple days. Um so, that would be the first playbook that I'd have you go through like right off the bat because if we can go from like 50 to 70, it'd be a 40% increase in business without doing anything. So, that'd be, you know, material and definitely worth it. All right. So, that's like thing number one is a lead nurture playbook. Okay. So, we have that one down. Now, the next thing is let me understand the uh and is the What's the goal right now? You said you have to filter the leads better. It's like 50% are showing, but what percentage of them are qualified? >> Um it's 68%. So, I mean, we have a 3K and 9K offer. It's really expensive for Argentina. So, >> Yeah. I got you. >> it's kind of strategic question is if we should go for a lower ticket offer to to use more of your ads we have. >> No. >> No. >> No. No. >> All right. >> No. This is good talk. I really did this. Dude, you're you're you're printing money. You're printing money. You're you're running you're running uh whatever that is. 80 you know, 80% margins on $300,000 a month. Just to give you context, if you were to run like what I would consider a normal margin business, you're running a $10 million a year business. Uh that would be making $3 million a year in profit. But, you're just making $3 million in profit on $4 million. >> I mean, yeah. Yeah. We're not running ads, you know, I can see this is really low margin, but what what to do if you were to scale to a million a month. >> So, yeah. Yeah. I hear you. So, >> [sighs] >> So, what percentage of the leads are you currently converting per month? >> Um I don't know. It's 20,000 leads. Uh we converted 80 clients last month.
+
+## [03:00](https://www.youtube.com/watch?v=VvInnM3Sz5w&t=180s)
+
+>> Okay. So, 20,000 leads. So, you're getting that's 0.3%? >> Yeah, something like that. >> 0.3%? Yeah. Uh my guess is that you can get to 1%. That's my guess. >> That's my guess. Um Walk me through how someone becomes a customer. >> So, we have uh reels and stories. People want to really magnets. We start a conversation on IG, set it up, book a call. Then we go to the closer, closer, closer to the deal, and that's it. >> Okay, do you have a VSL? >> Um yeah. No, no, no. It's not a VSL. It's a DM funnel. >> No, no, I know, but do you have a VSL before the call? >> Um I mean, a thank you page. Yeah. >> So, you do it you wait, so you have a thank you page a thank you page video. >> Yeah. >> Okay. And that's before they get on the sales call. >> Yeah. >> Okay. Got it. Um do you have do you have enough closers to handle the calls or there too many calls for the amount of sales guys you have? >> I have three. I don't know if I should hire more. For now it's okay. >> No, no, no. The Okay. Well, the So, the question I had was are all all of your closers like can can they handle all the volume that you're getting right now or not? >> Yeah, because we have like 10 goals booked, 15 15 to 20 goals booked a day, but only 10 show up. So, it's >> Yeah, that's fine. Okay, so you have enough capacity now. Okay, so I'm just working my way through the funnel. All right. So, I'm going to guess though cuz you said you have 20,000 leads. So, you're getting I mean like you're getting 750 leads a day, right? 700 leads a day ish, right? >> more now. Yeah. >> Okay. So, 700 leads a day let's just use that for now. So, 700 leads a day are coming in. If that's the case, what do you define as a lead? Someone who
+
+## [04:30](https://www.youtube.com/watch?v=VvInnM3Sz5w&t=270s)
+
+follows you? >> No, no. Someone that answer us in my name to run something. >> who Yeah, so they start a conversation. Okay. So, I'm going to bet that if you're getting 700 leads a day and that's only translating to 20 calls the the bottleneck that you have is probably in the DM setters. >> Yeah, yeah. Yeah. >> Okay, then dude, then yeah, yeah, then like we don't need like the show rates and the qualification rates like could they be better? Yes. Is that the concern of the business? No. So, I think you need to staff up on the DM setters. You probably need like three or four times the DM setters that you currently have. So, you cuz I'm just guessing your next is not working the leads. >> Yeah, I mean >> 20,000 you're definitely not working Yeah, you're definitely Yeah, there's just no way you're working the leads. And so, you already have all this profit and for you getting labor in you know, in Argentina is not going to be expensive. So, I would just hire like 10 DM setters. And that would like Yeah, it'd open up. >> You use software, right? >> Yeah, I mean of course I mean use as much Yeah, use as much automation as you can for sure. But like I just think you need more I think you just need more people. >> All right. All right, Alex. That's it. >> It was a good talk. Glad we did this. This was fun. >> Thank [laughter] >> books, dude. >> Yeah, thank you. We can talk in Argentina. Bye-bye. >> All right. All right, rock and roll. If you like this video and you're a business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so you can click here and you can check it out. Again, absolutely free
+
+## [06:00](https://www.youtube.com/watch?v=VvInnM3Sz5w&t=360s)
+
+and since you're business owner, I appreciate you and enjoy.

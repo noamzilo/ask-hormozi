@@ -1,0 +1,22 @@
+---
+episode_id: "7jqjL7iUQXw"
+title: "The Best Business Models Stay Simple"
+published: "2026-08-27"
+duration_seconds: 76
+episode_url: "https://www.youtube.com/watch?v=7jqjL7iUQXw"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Best Business Models Stay Simple
+
+Video: [https://www.youtube.com/watch?v=7jqjL7iUQXw](https://www.youtube.com/watch?v=7jqjL7iUQXw)
+Published: 2026-08-27
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=7jqjL7iUQXw&t=0s)
+
+You mentioned you think Chick-fil-A has one of the best business models. What would you tweak in their model to improve their revenue? >> I mean, honestly, I would just look at what Raising Cane's doing. Um I would take what they have and just limit the menu even more, probably. Um That's I mean, that's probably it. I mean, they already have I mean, they're probably one of the most successful, you know, brands of all time. Um Like how do how do you mess with uh something that's worked so well? Yeah, I mean, that's probably the only thing I would consider doing is I like maybe I'd limit the menu a little bit more, make it a little bit easier uh for the staff to get trained up, uh have fewer fewer decisions for a customer to make, um as Raising Cane's has proven and has just destroyed. Um It's about it. Otherwise, I mean, be good at Chick-fil-A. Good book, by the way. Wealth, is it worth it? by S. Truett Cathy, his story of Chick-fil-A. Little read. If you like this video and you're business owner who wants to break through your current revenue ceiling, I just took every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling road map that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely free. And since you're business owner, I appreciate you and uh enjoy.

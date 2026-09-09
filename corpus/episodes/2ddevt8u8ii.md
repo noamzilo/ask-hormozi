@@ -1,13 +1,13 @@
 ---
 episode_id: "2dDevt8U8II"
-title: "\"Why Is Entrepreneurship So Lonely?\""
+title: "\"I Feel Alone as an Entrepreneur\""
 episode_url: "https://www.youtube.com/watch?v=2dDevt8U8II"
 duration_seconds: 351
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# "Why Is Entrepreneurship So Lonely?"
+# "I Feel Alone as an Entrepreneur"
 
 Video: [https://www.youtube.com/watch?v=2dDevt8U8II](https://www.youtube.com/watch?v=2dDevt8U8II)
 Duration: 00:05:51

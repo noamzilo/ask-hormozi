@@ -1,13 +1,13 @@
 ---
 episode_id: "J---CYzg7a4"
-title: "Earning Respect vs Giving Respect"
+title: "What Respect Actually Means"
 episode_url: "https://www.youtube.com/watch?v=J---CYzg7a4"
 duration_seconds: 470
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Earning Respect vs Giving Respect
+# What Respect Actually Means
 
 Video: [https://www.youtube.com/watch?v=J---CYzg7a4](https://www.youtube.com/watch?v=J---CYzg7a4)
 Duration: 00:07:50

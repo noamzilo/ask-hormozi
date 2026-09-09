@@ -1,13 +1,13 @@
 ---
 episode_id: "_54vlaSMLo0"
-title: "Stop Killing Mosquitoes With a Cannon"
+title: "When to Blow Up Your Business and When to Leave It Alone"
 episode_url: "https://www.youtube.com/watch?v=_54vlaSMLo0"
 duration_seconds: 482
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Stop Killing Mosquitoes With a Cannon
+# When to Blow Up Your Business and When to Leave It Alone
 
 Video: [https://www.youtube.com/watch?v=_54vlaSMLo0](https://www.youtube.com/watch?v=_54vlaSMLo0)
 Duration: 00:08:02

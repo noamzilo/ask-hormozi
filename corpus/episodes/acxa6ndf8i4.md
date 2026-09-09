@@ -1,13 +1,13 @@
 ---
 episode_id: "aCxA6nDF8i4"
-title: "Why AI Agrees With Everything You Say"
+title: "AI Just Helps People Do Dumb Things Faster"
 episode_url: "https://www.youtube.com/watch?v=aCxA6nDF8i4"
 duration_seconds: 190
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Why AI Agrees With Everything You Say
+# AI Just Helps People Do Dumb Things Faster
 
 Video: [https://www.youtube.com/watch?v=aCxA6nDF8i4](https://www.youtube.com/watch?v=aCxA6nDF8i4)
 Duration: 00:03:10

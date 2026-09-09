@@ -1,13 +1,13 @@
 ---
 episode_id: "leEMptOPyZ8"
-title: "The Two Credos My Team Lives By"
+title: "Volume Negates Luck. Violence Is the Answer"
 episode_url: "https://www.youtube.com/watch?v=leEMptOPyZ8"
 duration_seconds: 241
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# The Two Credos My Team Lives By
+# Volume Negates Luck. Violence Is the Answer
 
 Video: [https://www.youtube.com/watch?v=leEMptOPyZ8](https://www.youtube.com/watch?v=leEMptOPyZ8)
 Duration: 00:04:01

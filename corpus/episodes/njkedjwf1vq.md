@@ -1,13 +1,13 @@
 ---
 episode_id: "NJkeDJWf1VQ"
-title: "\"How Do I Pick a Business Model I Won't Regret?\""
+title: "Helping a Roofing Company Scale from $1.8M to $70M"
 episode_url: "https://www.youtube.com/watch?v=NJkeDJWf1VQ"
 duration_seconds: 246
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# "How Do I Pick a Business Model I Won't Regret?"
+# Helping a Roofing Company Scale from $1.8M to $70M
 
 Video: [https://www.youtube.com/watch?v=NJkeDJWf1VQ](https://www.youtube.com/watch?v=NJkeDJWf1VQ)
 Duration: 00:04:06

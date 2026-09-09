@@ -1,0 +1,26 @@
+---
+episode_id: "pfohSIYjaMM"
+title: "\"How Do You Know If You've Learned Sales?\""
+published: "2026-08-20"
+duration_seconds: 94
+episode_url: "https://www.youtube.com/watch?v=pfohSIYjaMM"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "How Do You Know If You've Learned Sales?"
+
+Video: [https://www.youtube.com/watch?v=pfohSIYjaMM](https://www.youtube.com/watch?v=pfohSIYjaMM)
+Published: 2026-08-20
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=pfohSIYjaMM&t=0s)
+
+say that sales is one of the most important skills to learn. How do you measure whether or not you've learned the skill of sales? >> Output, baby. Very simple. Output. Can you get people to give you money? That's it. Like, have you gone to strangers and asked them to buy your thing? If they bought your thing, then you have learned how to sell. If a higher percentage of people give you money after you ask them, then you have learned how to sell better than you did before. And so, I think a lot of these questions ultimately, like what's what I would encourage you to do, and this is a more challenging skill set, is can I boil down my question into math? Is there a way cuz oftentimes we discuss these amorphous things, but we're really talking about probabilities. We're talking about percentages, probabilities, how likely is it? And when you talk in those terms, then it's much easier to determine whether it's a good decision or not. And so, is my close rate of getting people to buy my thing low? Then I probably need to increase my skill set. How do we increase our skill set? Find people who've done it well, so you can see the behavior that is good modeled for you. And then also, role play, aka practice doing the correct behavior. The third element, which I'd say if you have the ability to do it, do it, have somebody who understands the correct model and can give you feedback in real time on your own behavior, which will then speed up the loop, which is fundamentally why every sports team has coaches and trainers and all that kind of stuff. If you like this video and you're a business owner who wants to break through your current revenue ceiling, I just distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely
+
+## [01:30](https://www.youtube.com/watch?v=pfohSIYjaMM&t=90s)
+
+free. And since you're a business owner, I appreciate you and uh enjoy.

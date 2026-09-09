@@ -1,0 +1,34 @@
+---
+episode_id: "LTaqOdQ-2iU"
+title: "$12.5M a Year and Still a One-Man Show"
+published: "2026-07-31"
+duration_seconds: 314
+episode_url: "https://www.youtube.com/watch?v=LTaqOdQ-2iU"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# $12.5M a Year and Still a One-Man Show
+
+Video: [https://www.youtube.com/watch?v=LTaqOdQ-2iU](https://www.youtube.com/watch?v=LTaqOdQ-2iU)
+Published: 2026-07-31
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=LTaqOdQ-2iU&t=0s)
+
+Uh, name is Josh Hadley. Um, we sell on Amazon e-commerce. We talked last night. Primarily stationary products. So, calendars, planners, educational posters. We did 12.5 million last year. Like to be at 50 million and even get to 100 million. That's kind of the trajectory. I look at the, you know, what you your preamble earlier, right? So, you know, go to the increase your number of customers, do more of what's been working for you. And I have a podcast in the e-commerce space. Ideally want to be like you when I grow up, but in the e-commerce space. >> like you, so we're all good. >> But with that being said, I our number one priority for growth has always been find more products opportunities on Amazon, launch those products, right? That's been our biggest growth lever all >> How many SKUs do you have? >> 1,600. So, we've got a lot. All stationary. My wife designs it all, right? >> All stationary. >> All stationary. >> I've bought something from you. >> [laughter] >> Probably. >> own that whole category. Okay, yeah, you go on. >> Um, so we've looked at, you know, and Amazon's a cruel mistress in terms of decreasing profit margins, right? They're increasing fees and I see like the net over the next decade, you look at Amazon, you're going to be happy with single digit profit margins. It just becomes so competitive. So, with that being said, we've got on to TikTok Shop, right? We've had some success there. Took 10% of our sales this year already. We've then taken the viral that it the videos that go viral on TikTok, we run meta ads on them, and we've finally cracked Shopify for the first time.
+
+## [01:30](https://www.youtube.com/watch?v=LTaqOdQ-2iU&t=90s)
+
+>> All right. >> We've got a five ROAS on that, right? So, we're doing that. I also look at wholesale. We briefly mentioned distribution in our conversation yesterday. So, as I look at like our number one priority for growth has always been do more of what's worked, which has been launch products to serve whatever crap people are looking for on Amazon. But I also have these things that are boiling up that I'm like, man, I think this can really help things. TikTok actually is supporting all of our Amazon. >> Yeah. >> Increasing organic ranking just because people will search, find, buy it, right? >> Yeah. >> So, how do I communicate that to the team? Cuz it's like we still got to keep doing it. We're just >> the silent sixth. That's the silent sixth, right? So, like we're going to continue to make the sausage. We're going to continue to do the the the proven winning strategy. And that's kind of that's the core, that's the base. We're not going to threaten the base to try and pursue the new thing. But, if you do see one of those writing on the walls type situations where you're like, I my margins are going to compress, etc., etc. Um then it makes sense to make your one big bet of the year. Let's say it's TikTok. Um uh and I mean to be fair, it's not that much more uh work to just take the same ads and then run them on Shopify. Um and then that becomes the objective of the year, which I would probably just put into owned you know, owned customer lists is probably how I just categorize that for the team. >> Mhm. >> Um I feel like that's it. So, what what um what was the actual question? >> Yeah, I mean that. So, you talked about that that being like, "Hey, this is the one thing we're doing, right?" Because we've got 25 team members already. They're all serving that one thing, which is finding, launching new
+
+## [03:00](https://www.youtube.com/watch?v=LTaqOdQ-2iU&t=180s)
+
+products. >> It can be you and Scott. >> other team. >> Yeah. >> My follow-up question to this has been cuz I um was talking earlier >> Yeah. >> about go hire a director of marketing that can go run >> Yeah. >> TikTok side, >> Yeah. >> all of the Shopify stuff that we want to do. >> Mhm. >> I've been doing a lot of it myself. And um almost my reluctance to go hire somebody is like, well, then what else do I do in the business? You know what I mean? So, >> I I'll I'll make you a promise and I don't make promises often. I promise that if you replace what you were doing, you will find something else to do. >> [laughter] >> Well, I know that. Well, then then I will double down on that because, you know, I've got this other e-commerce thing. Like ideally, a decade from now, I'm I've got a win and I can go do this exact same thing you're doing but in the e-commerce space, right? >> To me, I'm always like, "Oh, go go do more speaking on stages. Go start building my own personal brands. Kind of what I like gravitate towards. >> wouldn't be my priority. I think get the win. Cuz it Cuz like say differently, take it to take it to the the natural logical extreme. So, you do lots of stage stuff, and then the main business suffers, and then you don't get the W. Then you're just a, you know, airbag, right? If you on the flip side, you don't do any speaking, and you get the win, all those doors open tenfold. And so like what matters more? The win. So, get the win. >> Easy enough. >> I do think that with your audience that you have, you'd be able to very easily headhunt a really savage director of
+
+## [04:30](https://www.youtube.com/watch?v=LTaqOdQ-2iU&t=270s)
+
+marketing who's already done e-commerce for TikTok Shop or or Shopify. And I'd probably do it on your podcast. I'd be like, "Hey, I'm looking for a savage." Like read Ernest Shackleton's ad about like looking for men, low chance of survival. >> [laughter] >> Uh just like this is a dangerous place to work, and I think you will attract the right people. >> Awesome. >> Yeah. And don't be afraid to pay them a lot. >> Okay. Thank you. >> His man. If you liked this video and you're a business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so you can click here and you can check it out. Again, absolutely free. And since you're a business owner, I appreciate you and enjoy.

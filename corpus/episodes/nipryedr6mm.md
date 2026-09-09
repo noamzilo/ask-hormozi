@@ -1,13 +1,13 @@
 ---
 episode_id: "niPRYedR6mM"
-title: "The 4 Moments Customers Will Buy Again"
+title: "Helping a Surf Coach Build His Upsell Ladder"
 episode_url: "https://www.youtube.com/watch?v=niPRYedR6mM"
 duration_seconds: 530
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# The 4 Moments Customers Will Buy Again
+# Helping a Surf Coach Build His Upsell Ladder
 
 Video: [https://www.youtube.com/watch?v=niPRYedR6mM](https://www.youtube.com/watch?v=niPRYedR6mM)
 Duration: 00:08:50

@@ -1,0 +1,26 @@
+---
+episode_id: "1nNAJeMb5uc"
+title: "How I Make Big Decisions Without Second-Guessing"
+published: "2026-07-30"
+duration_seconds: 113
+episode_url: "https://www.youtube.com/watch?v=1nNAJeMb5uc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How I Make Big Decisions Without Second-Guessing
+
+Video: [https://www.youtube.com/watch?v=1nNAJeMb5uc](https://www.youtube.com/watch?v=1nNAJeMb5uc)
+Published: 2026-07-30
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=1nNAJeMb5uc&t=0s)
+
+and then yearning for the cost of that decision that you already said was worth it. So, one of the things that's been really helpful for me for big life decisions when I have I would say conflicting priorities like multiple things that I want is when I make the call, I'll usually write out a document that explains all of the reasoning in its in its in its in its totality so that I don't so one if I if I if I have this moment of doubt again, I revisit it and then I read it again and then it basically closes the loop almost instantly. And so rather than have these endless thought loops, I'll have one or two, I'll reread it and then it kind of goes away. And this is especially on on the relational side, if you let's say you had a breakup or something like that and you're like or maybe you were the one who did the breakup and you know you could get them back, but you don't know if it was the right decision, blah blah blah. Like writing out every reason that you did it because you forget. And this is the whole point about punishment fades and reward sticks is that in the moment of pain after she comes back and she's crazy you have to remind yourself of all the of all the things that you know you will forget. So, it's almost like you're writing a warning letter to your future self of like don't forget about this. Remember the time she keyed your car? She did it again. Right? Like you have to put all those things down so that when you're in that moment of nostalgia looking back, you know what? Those were the good old days. You know, she wasn't so bad. Maybe I was being a little bit unreasonably you can read again, you're like, oh my god, I can't believe thank god I made that call. But that way you don't actually have to then waste the next 6 months re-relearning the same mistake again because you already documented it in an artifact. >> That's called borrowed authority exercises. >> Mhm. >> Borrowed authority, but instead of borrowing it from someone else, you're
+
+## [01:30](https://www.youtube.com/watch?v=1nNAJeMb5uc&t=90s)
+
+borrowing it from a past version of you. >> Mhm. >> Yeah. >> I like that. >> If you like this video and you're business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so you can click here and you can check it out. Again, absolutely free and since you're business owner, I appreciate you and enjoy.

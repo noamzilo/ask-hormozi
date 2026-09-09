@@ -1,0 +1,26 @@
+---
+episode_id: "jTMScIErfHk"
+title: "How Many Times Do You Have to Fail Before You Win?"
+published: "2026-08-04"
+duration_seconds: 147
+episode_url: "https://www.youtube.com/watch?v=jTMScIErfHk"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How Many Times Do You Have to Fail Before You Win?
+
+Video: [https://www.youtube.com/watch?v=jTMScIErfHk](https://www.youtube.com/watch?v=jTMScIErfHk)
+Published: 2026-08-04
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=jTMScIErfHk&t=0s)
+
+Well, if I was to forensically analyze your business now and then I brought in Alex who started that business on day one and I go, "Look at how unscalable all this stuff is that he's accomplished." I actually would not make the case from what you were just saying that actually the essence of value creation in business is solving problems that didn't look scalable. I was just thinking about even the diary of CEO process here from the minute you leave. Like so right now the team in there that are doing the testing, they're actually making you a book as as we speak. They They took photos of us while we were sat here and when this interview ends they go and walk in and hand me the book. I'm going to sign it and pass it to you. That book is going to contain quotes from fans that loved our last conversation. They're currently printing them off on Polaroids. They're writing in it. When this conversation's done, we're going to test your name 300 times using ads to see how to introduce you. I know Alex Hermosi is going to win cuz you're a big you're big name now. But [laughter] you think about when we started the podcast. Imagine me there with on GarageBand. With [laughter] a $100 mic. >> That's not scalable. >> It's not scalable. I use this this this frame a lot which is that >> you were trying to solve tomorrow's problems with today's resources. >> Mhm. >> It's a fallacy. It's ridiculous. You don't have the money, you don't have the skill, you don't have the connections, you don't have resources, you don't have the experience and the track record. But future you will. But the hard part is future is a stranger. >> Mhm. >> And so I think we make a lot of this content to try and approximate as closely as possible to just pull the first step for someone to take to say believe like you will figure it out. Like as long as you do not quit, you'll win. Like you just have to not stop. That's basically it. You just have to not stop. As long as you get feedback and you take the feedback and you improve and you do
+
+## [01:30](https://www.youtube.com/watch?v=jTMScIErfHk&t=90s)
+
+that a long enough time and I think you win. >> Let's be So just to be clear that you're not saying pursue a bad idea all the way and just be stubborn about the pursuit of a bad idea. You're saying iterate your way. >> Yeah, we have to get feedback. >> Yeah. >> I mean, if you want to have a doggy skateboard and you pitch 100 dog owners on the doggy skateboard and then none of them want it and you're like, "Well, I really believe in this doggy skateboard idea." And then you bring them the doggy skateboard and then they really still don't want it, you probably shouldn't sell doggy skateboards. >> So, you should quit the doggie skateboard business. >> Yes. But, you shouldn't quit business. >> Okay, I get it. >> it's local versus global. Even [clears throat] if you just reframe failure in that way, it makes it way more palatable. Like, you figuring it out is a lot of failures. I mean, how many failed episodes, failed headlines, packaging, you forgot to turn the the mic on and did the whole I'm sure >> Someone came in and stole the [ __ ] hard drive with the audio on it. It's like >> [laughter] >> There's there's going to be a hundred of those. But, as long as it it doesn't become a global failure of I'm no longer doing this, then you're good.

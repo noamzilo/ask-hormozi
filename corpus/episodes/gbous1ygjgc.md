@@ -1,13 +1,13 @@
 ---
 episode_id: "GBOuS1yGjGc"
-title: "Why I'd Sign With a Legacy Network"
+title: "Why Legacy Media Still Matters for Creators"
 episode_url: "https://www.youtube.com/watch?v=GBOuS1yGjGc"
 duration_seconds: 223
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Why I'd Sign With a Legacy Network
+# Why Legacy Media Still Matters for Creators
 
 Video: [https://www.youtube.com/watch?v=GBOuS1yGjGc](https://www.youtube.com/watch?v=GBOuS1yGjGc)
 Duration: 00:03:43

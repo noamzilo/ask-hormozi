@@ -1,13 +1,13 @@
 ---
 episode_id: "n7qpoX5oCuA"
-title: "\"How Do I Open a Second Location?\""
+title: "45% Margins and Still Can't Scale"
 episode_url: "https://www.youtube.com/watch?v=n7qpoX5oCuA"
 duration_seconds: 297
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# "How Do I Open a Second Location?"
+# 45% Margins and Still Can't Scale
 
 Video: [https://www.youtube.com/watch?v=n7qpoX5oCuA](https://www.youtube.com/watch?v=n7qpoX5oCuA)
 Duration: 00:04:57

@@ -1,0 +1,26 @@
+---
+episode_id: "UUHKFmWps1E"
+title: "Is Selling to Big Clients Really Different From Small Ones?"
+published: "2026-09-03"
+duration_seconds: 103
+episode_url: "https://www.youtube.com/watch?v=UUHKFmWps1E"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Is Selling to Big Clients Really Different From Small Ones?
+
+Video: [https://www.youtube.com/watch?v=UUHKFmWps1E](https://www.youtube.com/watch?v=UUHKFmWps1E)
+Published: 2026-09-03
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=UUHKFmWps1E&t=0s)
+
+All right. George Paladichuk. These names are wild. All right, is selling to enterprise clients the same as selling to SMB just different messaging? Uh, not really. So, I'll get This is really good. So, the difference between selling to enterprise and selling to SMB is actually the sales conversation itself is not that dissimilar. It's just that you have to do it 10 times in a row. So, it's kind of like you sell person A to get you to person B and then you sell person B using the same pitch to get you to person C. You sell person C to get you to person D and then finally person D is the decision maker, right? Then you get the sale. And so, that is the big difference and I think there's a lot of smoke and mirrors around enterprise sales being like it's a longer sales cycle. What it really just means is you have to sell more people on the same thing. That's what it is. And so, I would not overly distract yourself about like oh, enterprise sales is X Y or Z. You just have to do certain amount of outbound to get someone on the hook to respond and then once you get your foot in the door, you get an internal champion which just means that person refers you to somebody else who has more authority than or has control over the budget so that they can say yes and then give you money. But you're basically doing the same conversation 10 times. Now, like there's this magic arc that you cover all this stuff, all the key holders and decision They have all these terms, right? But it's just you're going to you're going to pitch a lot of people to get 20 people to say yes to make one big sale. That's the difference. Okay, I think that's pretty good simplification for a lot of people. >> [cough] >> All right. Um, Savannah, which one you want to do? Which one you feeling? If you like this video and you're a business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100
+
+## [01:30](https://www.youtube.com/watch?v=UUHKFmWps1E&t=90s)
+
+million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely free and since you're a business owner, I appreciate you and uh, enjoy.

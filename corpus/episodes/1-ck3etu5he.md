@@ -1,13 +1,13 @@
 ---
 episode_id: "1-ck3eTu5HE"
-title: "The One Money Belief I've Never Shared"
+title: "What I Won't Say About Money on Camera"
 episode_url: "https://www.youtube.com/watch?v=1-ck3eTu5HE"
 duration_seconds: 537
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# The One Money Belief I've Never Shared
+# What I Won't Say About Money on Camera
 
 Video: [https://www.youtube.com/watch?v=1-ck3eTu5HE](https://www.youtube.com/watch?v=1-ck3eTu5HE)
 Duration: 00:08:57

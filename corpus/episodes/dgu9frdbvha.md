@@ -1,13 +1,13 @@
 ---
 episode_id: "DGu9fRdBVhA"
-title: "The 2 Questions I Ask Every Hire"
+title: "How to Spot a Great Hire With 2 Questions"
 episode_url: "https://www.youtube.com/watch?v=DGu9fRdBVhA"
 duration_seconds: 288
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# The 2 Questions I Ask Every Hire
+# How to Spot a Great Hire With 2 Questions
 
 Video: [https://www.youtube.com/watch?v=DGu9fRdBVhA](https://www.youtube.com/watch?v=DGu9fRdBVhA)
 Duration: 00:04:48

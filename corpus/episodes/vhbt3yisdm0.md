@@ -1,13 +1,13 @@
 ---
 episode_id: "vhbt3Yisdm0"
-title: "\"Should I Sell My Systems to Competitors?\""
+title: "\"We Do $400M in Sales. What Do I Focus On?\""
 episode_url: "https://www.youtube.com/watch?v=vhbt3Yisdm0"
 duration_seconds: 314
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# "Should I Sell My Systems to Competitors?"
+# "We Do $400M in Sales. What Do I Focus On?"
 
 Video: [https://www.youtube.com/watch?v=vhbt3Yisdm0](https://www.youtube.com/watch?v=vhbt3Yisdm0)
 Duration: 00:05:14

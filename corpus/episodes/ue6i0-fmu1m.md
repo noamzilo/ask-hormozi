@@ -1,13 +1,13 @@
 ---
 episode_id: "UE6I0-fmu1M"
-title: "\"Should I Kill Half My Business?\""
+title: "Helping a $5M Plumber Double His Service Revenue"
 episode_url: "https://www.youtube.com/watch?v=UE6I0-fmu1M"
 duration_seconds: 197
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# "Should I Kill Half My Business?"
+# Helping a $5M Plumber Double His Service Revenue
 
 Video: [https://www.youtube.com/watch?v=UE6I0-fmu1M](https://www.youtube.com/watch?v=UE6I0-fmu1M)
 Duration: 00:03:17

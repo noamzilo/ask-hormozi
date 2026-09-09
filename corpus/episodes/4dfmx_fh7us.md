@@ -1,13 +1,13 @@
 ---
 episode_id: "4dFMX_fH7Us"
-title: "Sound Less Legit, Attract Less Legit"
+title: "Helping a Fund Manager Attract Real Investors"
 episode_url: "https://www.youtube.com/watch?v=4dFMX_fH7Us"
 duration_seconds: 263
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Sound Less Legit, Attract Less Legit
+# Helping a Fund Manager Attract Real Investors
 
 Video: [https://www.youtube.com/watch?v=4dFMX_fH7Us](https://www.youtube.com/watch?v=4dFMX_fH7Us)
 Duration: 00:04:23

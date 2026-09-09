@@ -1,13 +1,13 @@
 ---
 episode_id: "HA_6vMPAzDs"
-title: "He Came for Marketing Advice. He Left With a Hiring Problem."
+title: "Helping a Software Consulting Firm Scale From $4M to $50M"
 episode_url: "https://www.youtube.com/watch?v=HA_6vMPAzDs"
 duration_seconds: 416
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# He Came for Marketing Advice. He Left With a Hiring Problem.
+# Helping a Software Consulting Firm Scale From $4M to $50M
 
 Video: [https://www.youtube.com/watch?v=HA_6vMPAzDs](https://www.youtube.com/watch?v=HA_6vMPAzDs)
 Duration: 00:06:56

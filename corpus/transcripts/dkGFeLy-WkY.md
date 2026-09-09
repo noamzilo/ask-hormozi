@@ -1,0 +1,30 @@
+---
+episode_id: "dkGFeLy-WkY"
+title: "\"How Do I Find a Mentor?\""
+published: "2026-08-24"
+duration_seconds: 266
+episode_url: "https://www.youtube.com/watch?v=dkGFeLy-WkY"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "How Do I Find a Mentor?"
+
+Video: [https://www.youtube.com/watch?v=dkGFeLy-WkY](https://www.youtube.com/watch?v=dkGFeLy-WkY)
+Published: 2026-08-24
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=dkGFeLy-WkY&t=0s)
+
+How would I go about finding a mentor to help me on my path? >> Well, I think we can delineate a couple things. So, first is there are people who give you information. So, think about the sources of truth or sources of information. All that stuff's readily available on the internet for free. I think what you're asking for is someone who can give you feedback. Right? So, someone who can train you in some way, either one to many or one on one. Um that basically you can take an action and they can say, "Change this. Try it again." Um and there's a lot of different ways you can do that. You can hire vendors for that. You can hire What I mean a vendor or a mentor, whatever you want to call it. Uh there's coaches for that. There's sales coaches. There's, you know, insurance sales coaches. There's Like, I'm a big advocate of getting training. Like, I'm an advocate of trying to hire an expert who is good at the thing to give me feedback so that I can shorten my curve to get to where I want to go. Um and I think there's like there's a couple perspectives on this, which is that people I think some people with egos hate the idea that they want to pay for help. I think that's silly. Um but that's up to you. Uh I don't want to have to figure everything out. I would happily take the answers from someone else. Like, this is not school. You can pay someone for the answers to test and then just take the test and ace it. And so, I like that. Um the other perspective um is that sometimes you pay someone and you didn't get what you wanted out of it. And there's probably three core problems that could have happened from that. So, number one is they promised something that was too big, right? That's on them. Uh the second is that you did not do the work. Right? So, that's on you. Um or
+
+## [01:30](https://www.youtube.com/watch?v=dkGFeLy-WkY&t=90s)
+
+you had unrealistic expectations that were independent of their promises. And so, in either of those scenarios, you're going to be dissatisfied. And so, I would say that when I pay anyone for help, I always make it my objective to make sure that it is not my fault. And so, I do that by promising the person and I say it as like, "I will be your best student." That because there there is no way like I will follow this to the T and I will do more just in case. Because I want to rule out any possibility of failure on me and I will expect nothing. And so, when you when you approach education that way, the likelihood of success is really high. And I would say that I've been probably the number one student in anything that I've paid for, which is a pretty bold claim, but I think it's true. Um and the approach that I've had is just absolute violence. Um is that I will I will be religious in my adherence to the steps that they outlined. And I think what makes one person successful in a program compared to another person is the other skills that they have that the person who selected did not qualify. So, what does that mean? So, let's imagine that um to start a program of any kind, you need to know how to read and you need to know how to write. Well, if you've never read before, you might get accepted into a program, but then reading is a prerequisite, which means the likelihood that you succeed is low. But, they didn't include it because they thought it was implied. Now, there are skills that are like reading and writing that are more nuanced that people who teach and are
+
+## [03:00](https://www.youtube.com/watch?v=dkGFeLy-WkY&t=180s)
+
+not as competent at teaching do not know how to select for. And so, in so doing, they sell people and sometimes people win and sometimes they don't. Now, over time, and I've heard this story 100 times and so have you, which is I bought four courses and then on the fifth course I made all this money. But, the thing is is that each of the other courses still gave you skills, you just didn't have all of the skills to create the outcome. And so, let's say there's 20 skills. The first one taught you four, the next one taught you four, the next one taught you four. And the last one taught you the last, you know, four that you needed and all of a sudden you made a dollar. So, you attribute all of your success to the guy who got you the outcome, but each of the other things that you that you went through still contributed to it. It just wasn't enough to get you off across the finish line. And so, this is why I I have a tremendous respect for teaching in general because I understand the difficulty of getting someone across the line. Um but, I also think that there's just as much responsibility on the student's sake of like, how bad do you want it? And do you just want to have an excuse to prove that that you're right, woe is you, the universe is out to get you, there's no way to be successful. Like, sometimes people set up games where if they win the prize, they lose. And I would encourage you to not play those games. If you like this video and you're business owner who wants to break through your current revenue ceiling, I just did every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so you can click here and you can check it out. Again, absolutely free and since you're business owner, appreciate you and enjoy.

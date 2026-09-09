@@ -3,7 +3,7 @@ name: hq-pack-ask-hormozi
 version: 0.2.2
 publisher: '@poseljacob'
 access: public
-description: 'Search 2,039 bundled MoreMozi transcripts locally with QMD and answer questions with timestamped YouTube citations. The pack ships the corpus, an HQ runtime wrapper, and the ask-hormozi skill; installation never downloads videos, audio, captions, or transcripts.'
+description: 'Search 2,610 bundled MoreMozi transcripts locally with QMD and answer questions with timestamped YouTube citations. The pack ships the corpus, an HQ runtime wrapper, and the ask-hormozi skill; installation never downloads videos, audio, captions, or transcripts.'
 requires:
   hqCore: '>=12.0.0'
 type: skill

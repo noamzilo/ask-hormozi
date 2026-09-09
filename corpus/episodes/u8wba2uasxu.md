@@ -1,13 +1,13 @@
 ---
 episode_id: "u8wbA2UAsXU"
-title: "Keyman Risk or Keyman Reward?"
+title: "Helping a $16M Media Company Pick Its Buyer"
 episode_url: "https://www.youtube.com/watch?v=u8wbA2UAsXU"
 duration_seconds: 736
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Keyman Risk or Keyman Reward?
+# Helping a $16M Media Company Pick Its Buyer
 
 Video: [https://www.youtube.com/watch?v=u8wbA2UAsXU](https://www.youtube.com/watch?v=u8wbA2UAsXU)
 Duration: 00:12:16

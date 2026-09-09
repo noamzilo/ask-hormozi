@@ -1,0 +1,22 @@
+---
+episode_id: "pXOEbBbRXAc"
+title: "Tell Them You're the Manager, Not the Owner"
+published: "2026-08-11"
+duration_seconds: 84
+episode_url: "https://www.youtube.com/watch?v=pXOEbBbRXAc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Tell Them You're the Manager, Not the Owner
+
+Video: [https://www.youtube.com/watch?v=pXOEbBbRXAc](https://www.youtube.com/watch?v=pXOEbBbRXAc)
+Published: 2026-08-11
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=pXOEbBbRXAc&t=0s)
+
+Hi Alex, I'm 24 years old and look like I'm 18. I made a restaurant management SAS and I can't seem to get any customers. The problem is that I have an age difference because they think of me as a teenager. Um So, let me give you a secret that I did when I started at 22. Um I didn't tell people I own the business. I told people that uh I was the manager and that the owner was someone else. And everyone was very happy to pay adult prices to someone a kid who worked for an adult. Uh and whenever I had to like you know, let me see if I Let me Let me see if the boss, you know, will do it. I would step outside and I'd pull my phone out and I would just do nothing and then I'd come back in and be like, "Yeah, yeah, he's good with that." Um and then I like even had a celebration where like I'm I'm a part owner and people are like, "Oh yeah, he's a part owner." Um and so, that's actually how I managed to do that when I was younger, FYI. So, use it. I mean, I think Tim Ferriss talked about this where he would respond to emails as like the name and then like head of customer success, but he was also uh head of sales and head of marketing and head of everything else. So, uh yeah, you do what you got to do when you're when you're starting out. If you like this video and you're a business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling road map that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely free and since you're a business owner, I appreciate you and uh enjoy.

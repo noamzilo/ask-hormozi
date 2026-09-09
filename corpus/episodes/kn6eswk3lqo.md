@@ -1,13 +1,13 @@
 ---
 episode_id: "Kn6EsWk3LQo"
-title: "Interview 20 Vendors. One Can Lie. Twenty Can't."
+title: "Helping an Owner Stop Getting Burned by Vendors"
 episode_url: "https://www.youtube.com/watch?v=Kn6EsWk3LQo"
 duration_seconds: 279
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Interview 20 Vendors. One Can Lie. Twenty Can't.
+# Helping an Owner Stop Getting Burned by Vendors
 
 Video: [https://www.youtube.com/watch?v=Kn6EsWk3LQo](https://www.youtube.com/watch?v=Kn6EsWk3LQo)
 Duration: 00:04:39

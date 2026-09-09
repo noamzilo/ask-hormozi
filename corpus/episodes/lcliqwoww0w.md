@@ -1,13 +1,13 @@
 ---
 episode_id: "LClIQWOww0w"
-title: "Incompetence, Not Malice"
+title: "Everyone's a Coach Now. Does It Bother Me?"
 episode_url: "https://www.youtube.com/watch?v=LClIQWOww0w"
 duration_seconds: 166
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Incompetence, Not Malice
+# Everyone's a Coach Now. Does It Bother Me?
 
 Video: [https://www.youtube.com/watch?v=LClIQWOww0w](https://www.youtube.com/watch?v=LClIQWOww0w)
 Duration: 00:02:46

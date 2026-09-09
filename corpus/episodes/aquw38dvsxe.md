@@ -1,13 +1,13 @@
 ---
 episode_id: "aQuw38DvsxE"
-title: "His Entire State Has Fewer People Than One City"
+title: "Helping a Criminal Defense Firm Scale to $100M"
 episode_url: "https://www.youtube.com/watch?v=aQuw38DvsxE"
 duration_seconds: 428
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# His Entire State Has Fewer People Than One City
+# Helping a Criminal Defense Firm Scale to $100M
 
 Video: [https://www.youtube.com/watch?v=aQuw38DvsxE](https://www.youtube.com/watch?v=aQuw38DvsxE)
 Duration: 00:07:08

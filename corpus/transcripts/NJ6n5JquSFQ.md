@@ -1,0 +1,26 @@
+---
+episode_id: "NJ6n5JquSFQ"
+title: "Why $1M-$3M Is the Hardest Stage of Business"
+published: "2026-08-12"
+duration_seconds: 155
+episode_url: "https://www.youtube.com/watch?v=NJ6n5JquSFQ"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Why $1M-$3M Is the Hardest Stage of Business
+
+Video: [https://www.youtube.com/watch?v=NJ6n5JquSFQ](https://www.youtube.com/watch?v=NJ6n5JquSFQ)
+Published: 2026-08-12
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=NJ6n5JquSFQ&t=0s)
+
+Who here is between 1 and 3 million? Okay. Okay. A lot of you. Um So, 1 to 3 million is I think one of the hardest parts of entrepreneurship and there's a math reason behind it, which is that the amount of profit that you are generating at 1 to 3 million is typically the amount of money that you have to make a gigantic bet in the business. And so, what's ironic about the swamp is that it takes more risk to get out of the swamp than it does to get into it. Because in the beginning when you start the business, it's usually you and maybe a couple of helpers, you run pretty cheap, and you make decent money, and then all of a sudden you cross a million, you need more help because you can't handle it anymore. You hire, you hire, and all of a sudden you're like, "I'm making less money than I was when I had fewer people and I hate my life more somehow. Um but you're like, "But I'm supposed to scale, but this sucks." Um And so, when you're in that area, there's a number of big bets that you'll have to take. Bet number one is either that you we hire somebody who's going to eat up the majority of the margin. We don't know if it's going to work out. That's one bet you can make. That's more of the existing model, but that is a play. The next play is that you say, "Hey, I've got these different I'm currently one segment of the customers more valuable than the others. I'm going to stop servicing the non-valuable customers to focus on the valuable customers, but oh no, what if I lose this revenue?" It's a bet. But you have the infrastructure to handle the the more of the more valuable ones, and if you just had 100% more valuable ones, you'd break out of the swamp. If you make a bet on price, which is a different way of doing it, let's say you raise your prices so you can increase your cash flow, that is another risk because you might lose other customers that would have otherwise purchased. You can change your offer. These are all
+
+## [01:30](https://www.youtube.com/watch?v=NJ6n5JquSFQ&t=90s)
+
+things that can get you out of the swamp, but every single one of them has one thing in common, which is that a bet. And so, what I would encourage you to do is that if you are in that period right now, I you have to go all in. And so, I've continued to look at the best entrepreneurs and of all time, and there are these periods of growth that sometimes math requires you to take a larger amount of risk to get the return that you want. And there's a reason that there's this gigantic like if we look at our stats, it's like this bolus at 1 to 3 million. It's because there's something structural about the risk that you have to incur in order to get out of it. And so, I'd encourage you that if you have clear ideas or you're not even sure about what you need to do, that you do need to get sure and then commit to it. That is my my ask. Um Can everyone commit to that? Yes? Take the big bet on you? Okay. If you like this video and you're business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling road map that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely free. And since you're business owner, I appreciate you and enjoy.

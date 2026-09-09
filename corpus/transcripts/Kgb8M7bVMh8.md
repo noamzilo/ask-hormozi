@@ -1,0 +1,26 @@
+---
+episode_id: "Kgb8M7bVMh8"
+title: "\"How Do I Sell Without Case Studies?\""
+published: "2026-09-08"
+duration_seconds: 126
+episode_url: "https://www.youtube.com/watch?v=Kgb8M7bVMh8"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "How Do I Sell Without Case Studies?"
+
+Video: [https://www.youtube.com/watch?v=Kgb8M7bVMh8](https://www.youtube.com/watch?v=Kgb8M7bVMh8)
+Published: 2026-09-08
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=Kgb8M7bVMh8&t=0s)
+
+How do I sell without case studies? Almost every prospect asks for that. I have a cold email agency. Bro, get case studies. What are we talking about? Do work for free. If you're starting out and you have no track record, you should go get a track record for free. Like, you working for free is still a better deal for you than it is for them. I don't know I don't know how people get stuck on that one. I think people believe the whole like you like don't don't serve people for free like charge what you're worth. Dude, currently you're worth nothing. No one wants to pay you. You're not worth anything right now. And okay, as a human being, sure you've got lots of value. To the market for your skills, low. And that's okay. I want to be That's fine. Everybody starts at zero. Everybody sucks when they start. But, like I I I I do I do this now, dude. Like when I have a new service or new product I want to launch, there's a reason I have beta users, right? I just say like, "Dude, it's free. Come on. Help me get the kinks out of it." Because you want to have a good reputation. And so, you say, "Hey, in exchange for basically me not being that good cuz I can't be good on the first time you do it because you don't have to learn anything yet." Right? And if it's your second or third, right? If it is your second or third, why don't you have case studies? Cuz it probably isn't that good from the second or third ones that you did, right? Yeah. Um and so, yeah. You need to start for free. You need to learn more than you earn for this little period. And then once you stack up a bunch of free case studies, some of them will be willing to pay you. Some of them will refer you other business. And some of them just their case study alone will get you the business you want. But, a case study or free client pays you in
+
+## [01:30](https://www.youtube.com/watch?v=Kgb8M7bVMh8&t=90s)
+
+three ways. You'll learn more than you earn. You get them as a customer. You get the referrals from them. And then bonus, their reviews themselves will get you customers. So, there's four reasons that you can just help them for free and it is worth your time and you get the better end of the deal. If you like this video and you're business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling road map that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so you can click here and you can check it out. Again, absolutely free. And since you're a business owner, appreciate you and enjoy.

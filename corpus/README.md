@@ -1,12 +1,12 @@
 # MoreMozi corpus
 
-This snapshot contains source material for 2,039 videos from the
+This snapshot contains source material for 2,610 videos from the
 [MoreMozi YouTube channel](https://www.youtube.com/@MoreMozi):
 
 - `episodes/`: one catalog page per video
 - `metadata/`: source metadata and caption provenance
 - `transcripts/`: one readable transcript per video
-- `segments/`: 9,330 timestamped passages used by QMD
+- `segments/`: 13,946 timestamped passages used by QMD
 - `catalog.json`: the complete video inventory
 - `caption-coverage.json`: English-caption coverage audit
 - `transcript-manifest.json`: transcript build results

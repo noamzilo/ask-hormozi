@@ -1,13 +1,13 @@
 ---
 episode_id: "YMm6kETqdqs"
-title: "His Funnel Starts With a Shampoo Bottle"
+title: "Helping a Salon Coach Untangle His Offers"
 episode_url: "https://www.youtube.com/watch?v=YMm6kETqdqs"
 duration_seconds: 637
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# His Funnel Starts With a Shampoo Bottle
+# Helping a Salon Coach Untangle His Offers
 
 Video: [https://www.youtube.com/watch?v=YMm6kETqdqs](https://www.youtube.com/watch?v=YMm6kETqdqs)
 Duration: 00:10:37

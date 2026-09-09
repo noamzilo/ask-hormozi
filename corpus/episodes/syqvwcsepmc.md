@@ -1,13 +1,13 @@
 ---
 episode_id: "SYqVWcsepmc"
-title: "Document It All, Even If You Never Share It"
+title: "The One Thing I Regret Not Doing Early"
 episode_url: "https://www.youtube.com/watch?v=SYqVWcsepmc"
 duration_seconds: 123
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Document It All, Even If You Never Share It
+# The One Thing I Regret Not Doing Early
 
 Video: [https://www.youtube.com/watch?v=SYqVWcsepmc](https://www.youtube.com/watch?v=SYqVWcsepmc)
 Duration: 00:02:03

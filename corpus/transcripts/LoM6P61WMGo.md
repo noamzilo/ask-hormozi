@@ -1,0 +1,38 @@
+---
+episode_id: "LoM6P61WMGo"
+title: "It's Never Been Easier to Make Money"
+published: "2026-07-31"
+duration_seconds: 370
+episode_url: "https://www.youtube.com/watch?v=LoM6P61WMGo"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# It's Never Been Easier to Make Money
+
+Video: [https://www.youtube.com/watch?v=LoM6P61WMGo](https://www.youtube.com/watch?v=LoM6P61WMGo)
+Published: 2026-07-31
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=LoM6P61WMGo&t=0s)
+
+Now, the world your child will be born into is very different than the one you grew up in. Uh the value of college degrees has changed, jobs are being eaten by AI, and young people are lonelier than ever. Mechanically speaking, what's changed in the system that makes it challenging in a different way for young people to make money today? Um well, today versus when my child is an adult, I would say we're are different situations. I would say for today, it's never been easier to make money because we have these tools that are giving tremendous leverage to people who have work ethic and skill. Um and so barriers to entry are getting completely flattened, which is amazing. It's democratized access, but what it's really done is also just made it more competitive. And so one of my favorite lines in The Wire is uh Cutty, who's was a hitman, comes out of, you know, prison after 15 or 20 years. He's an older guy, doesn't know what to do, goes back into the game. He then is told to like go do a hit with some other guy. And uh it goes, you know, the wrong way or or they're sitting in the back of the car and he says, "Man." He's like, "The game's changed." And uh Slim Charles looks at him and says, "Nah, man." He's like, "The game hasn't changed. Game's the same, just more fierce." And so I see that in a lot of ways. It's the way that the economy, the way that business, the market has hasn't changed. The fundamentals are still going to be the same. It's supply and demand. Scarcity
+
+## [01:30](https://www.youtube.com/watch?v=LoM6P61WMGo&t=90s)
+
+is still going to drive behavior. Um it's just that the variables around the core fundamentals will change. And so that's why I think like adaptability is a core thing to learn, which I just see that as like being able to change behavior quickly when new conditions arise. Um and so today a lot of money can be made digitally without nearly the amount of labor as before, and you can run it a lot more efficiently, which I think just There are more people entering entrepreneurship than ever before. Which I see as largely a good thing cuz the most efficient organizations are single single person run. Like if you just take like there's so much uh waste in large organizations because of coordination of people. And so, you know, like a perfect world of efficiency would be that every single person has a business that requires no one else. That everyone have their own freedom. Everyone, you know, delivers uh you know, valuable services to other people. That's awesome. I think there's a a world of more and more of that that will happen in a world where, you know, humans have no no inherent value. Um from a quote utility perspective that a robot, you know, cannot do. Um I think that we'll do what we've always done. Like we'll figure out something else. >> You said 18 years from now it'll be radically different. >> Mhm. >> If you had to guess, like oh, I have no idea. >> I have no idea. I think my guess is is it would be the same as me making up a reality. And I don't think I don't think there's too many variables. I mean, let alone like it's like trying to predict like what stock boxing is going to go up tomorrow. There's so many things that are that can happen between now and then. Um
+
+## [03:00](https://www.youtube.com/watch?v=LoM6P61WMGo&t=180s)
+
+And there's also some things that I don't think are necessarily going to change. Like for example, like what are it's I think basis is a question which I like thinking a lot about, which is rather than saying like what is going to change, I think it's it's more viable for someone today to ask what is going to stay the same. And so, I think that humans will still fall in love. I think that humans will still value steaks. To give you a simple example. Like if Mr. Beast makes a video and he's you know, puts $5 million in the middle of an island and invites 10 influencers to go compete for it. Those influencers can't be AI influencers. They can't be fake. And if that $5 million isn't actually $5 million, then and you just have cartoons competing for fake money, I don't think anyone cares. And there's also some things that people want to see humans do. So, like we have cranes, we still want to watch who can lift the most weight. We still have, you know, robo chess that can beat any chess player on Earth and chess has never been more popular. And so, we will still be attracted to human things. Drama, story, narrative stakes, things like that that I think that humans want to see how humans are reacting to those things. Um so, I don't think that's going to change. I think humans are going to need I think they're going to need to sleep. They're going to have to you know, have shelter. Um all of these things I think will will remain relatively unchanged. Um will there also be AI entertainment? Absolutely. Will there be our first Star Wars epic? I mean, we're seeing it I think I don't you probably been attuned to this like there've been three big box office hits that were like 100 million plus movies that have come out from just like YouTubers. And that necessarily isn't all AI, but it will be.
+
+## [04:30](https://www.youtube.com/watch?v=LoM6P61WMGo&t=270s)
+
+Like these tiny tiny um teams being able to generate huge blockbuster quite literally um outcomes. Uh and so, it's like again, it's just going to have uh I think Naval said this, but it was technology democratizes consumption and consolidates production. So, if you get if you're the best in the world, you get to do it for everyone. And so, AI will will YouTubify a lot of things. So, what I mean by that is when mobile phones had videos, video making used to be a luxury thing. And then everyone was able to make a video. And then YouTube gave everyone a platform to post those videos on. And so, it's like oh, everyone can vibe code. It's like well, yeah, but everyone can make videos, but not everyone's Mr. Beast. And so, just like always like it will still have like quality like we'll have when there's more supply, we will index on quality. And so, what are the human things that are the non-replaceable things which I think are stakes. I think it's narrative. I think it's reality. And reality creates the stakes um for any of this type of stuff. That's why reality TV is still a thing cuz we know it's real, you know, you know, to the degree that it's real people, right? And there's some sort of money or whatever that's on the line. People still watch. But yeah, I think there's there's a world where there's a robot that cuts your lawn. For sure. If you like this video and you're a business owner who wants to break through your current revenue ceiling, I just filled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap
+
+## [06:00](https://www.youtube.com/watch?v=LoM6P61WMGo&t=360s)
+
+that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so you can click here and you can check it out. Again, absolutely free. And since you're a business owner, I appreciate you and uh enjoy.

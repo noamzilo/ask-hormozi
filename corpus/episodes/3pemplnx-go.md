@@ -1,13 +1,13 @@
 ---
 episode_id: "3pemplNX-go"
-title: "\"Is Working Nonstop a Healthy Way to Cope?\""
+title: "\"Can You Outrun Your Problems by Working?\""
 episode_url: "https://www.youtube.com/watch?v=3pemplNX-go"
 duration_seconds: 624
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# "Is Working Nonstop a Healthy Way to Cope?"
+# "Can You Outrun Your Problems by Working?"
 
 Video: [https://www.youtube.com/watch?v=3pemplNX-go](https://www.youtube.com/watch?v=3pemplNX-go)
 Duration: 00:10:24

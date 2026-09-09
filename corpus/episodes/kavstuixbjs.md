@@ -1,13 +1,13 @@
 ---
 episode_id: "kAVStuixBJs"
-title: "A Message From My 85-Year-Old Self"
+title: "What You Can't See Until You Hit Your Number"
 episode_url: "https://www.youtube.com/watch?v=kAVStuixBJs"
 duration_seconds: 558
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# A Message From My 85-Year-Old Self
+# What You Can't See Until You Hit Your Number
 
 Video: [https://www.youtube.com/watch?v=kAVStuixBJs](https://www.youtube.com/watch?v=kAVStuixBJs)
 Duration: 00:09:18

@@ -1,0 +1,26 @@
+---
+episode_id: "FeU2l8sp3lo"
+title: "78% of All Businesses Are Service-Based"
+published: "2026-08-04"
+duration_seconds: 105
+episode_url: "https://www.youtube.com/watch?v=FeU2l8sp3lo"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# 78% of All Businesses Are Service-Based
+
+Video: [https://www.youtube.com/watch?v=FeU2l8sp3lo](https://www.youtube.com/watch?v=FeU2l8sp3lo)
+Published: 2026-08-04
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=FeU2l8sp3lo&t=0s)
+
+Do you have to be intentional about that when you're starting a business or offering any product to anyone, whether it's content? You have to at the start decide who it's for. Yes and no, which is a terrible answer, but to start you just need to get anybody to give you money. You have then met the the requisites for being an entrepreneur. You've accepted money from a stranger, congratulations you have a business. Most businesses that I encounter, especially in services, cuz it's 80% of at least in the US is 78% of all businesses are service-based. Typically it starts with accepting all money from everyone. Cuz you're like, oh I do podcast agency stuff. Do Oh you You have a Oh you want to start up? Yeah, I could help you too. Like because they have a pulse and a credit card and one of those was the requirement for being a customer, right? >> [laughter] >> And so you you take what you can get, right? But you quickly realize that it becomes very difficult to scale that and that's okay because you had to do what you needed to do to survive and get started and that's fine. But usually between 1 and 3 million, you have to make a decision where you say, hey, in order for me to scale this now that I have the resources and the experience and the skill, I can say these customers are easier to deal with and pay us more >> Mhm. >> than these customers. >> Mhm. >> And if I didn't have to serve 10 different types of customers and I only had to serve one type of customer, it would make the operations on the back way easier because I could start templatizing and start systematizing what our delivery is. And on the front end, if we're advertising people, instead of saying we do advertise your podcast agency for everyone, we say we help doctors generate patients using podcasts. >> Mhm. >> It's like, oh all of a sudden the correct customer knows that this is for them, right? And so now we're attracting the right people and then those people are the ones that we already figured out
+
+## [01:30](https://www.youtube.com/watch?v=FeU2l8sp3lo&t=90s)
+
+through trial and error and feedback are worth the most and then we have a more scalable product because we don't have to make 10 things for 10 people, we make one thing for 10 people. >> Mhm. >> Right? Cut once, sell twice. Right, sell twice. That's the idea. Not cut once, sell once.

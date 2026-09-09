@@ -1,0 +1,26 @@
+---
+episode_id: "pIgLxbjSF_s"
+title: "\"Do I Fire My Best Employee, or Promote Him?\""
+published: "2026-09-07"
+duration_seconds: 106
+episode_url: "https://www.youtube.com/watch?v=pIgLxbjSF_s"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "Do I Fire My Best Employee, or Promote Him?"
+
+Video: [https://www.youtube.com/watch?v=pIgLxbjSF_s](https://www.youtube.com/watch?v=pIgLxbjSF_s)
+Published: 2026-09-07
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=pIgLxbjSF_s&t=0s)
+
+What does survey say? >> It's still going. I can >> Oh, it's still going. All right. Well, well, well, we'll do another one. My top salesman is stealing clients on the side. Done, dude. Fire him. No question. This is not a This is I don't even need to read the rest of this. Uh but he's also the reason I can afford lunch and he's in a gas station that is in a gas station burrito. Do I fire him or promote him? Uh to promote him. Um I would make sure that you've recorded all the sales uh that he's done so that you can duplicate this. Also, as a side note for anyone, if you do not like every entrepreneur needs to know the basic three things that are required to make a business work. You need to learn how to promote, you need to learn how to convert, you need to learn how to deliver. So, you got to let people know about your stuff, you need to get them to give you money, and you got to be able to deliver the thing you promised. Those are the three core things. The rest of it, whether it's the accounting, whether it's the legal, whether it's the tech, whatever, those are all things that you can outsource. But, these are the core elements of value creation in the business. And so, right now you are being hamstrung by someone who has leverage over you. All right? Now, I was a little bit aggressive on the onset. Like, if you do fire him and you have no no understanding of how the sales motion works, uh then that would be a bad idea. So, basically, you want to go on a hardcore recon of what this guy is doing or gal is doing. Learn it cuz you need to learn it no matter what. Um and then as quickly as possible get them out of the business. And I would say I would sell alongside him and try to match his or her numbers. And then once I had gotten close to that knowing that I'm not going to be eating gas station burritos, I would let them go. But, you have the the best day to cut out cancer was the day it started growing. Uh the second best day is today. If you like this video and you're a business owner who wants to break through your current revenue ceiling, I distilled
+
+## [01:30](https://www.youtube.com/watch?v=pIgLxbjSF_s&t=90s)
+
+every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely free. And since you're a business owner, appreciates you and uh enjoy.

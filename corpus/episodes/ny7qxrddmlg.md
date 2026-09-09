@@ -1,13 +1,13 @@
 ---
 episode_id: "nY7qXRdDmLg"
-title: "Without Courage, Every Other Skill Is Useless"
+title: "Courage Is the One Skill That Unlocks the Rest"
 episode_url: "https://www.youtube.com/watch?v=nY7qXRdDmLg"
 duration_seconds: 103
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Without Courage, Every Other Skill Is Useless
+# Courage Is the One Skill That Unlocks the Rest
 
 Video: [https://www.youtube.com/watch?v=nY7qXRdDmLg](https://www.youtube.com/watch?v=nY7qXRdDmLg)
 Duration: 00:01:43

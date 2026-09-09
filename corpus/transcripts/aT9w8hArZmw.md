@@ -1,0 +1,26 @@
+---
+episode_id: "aT9w8hArZmw"
+title: "\"If Nothing Matters, Are Morals Even Real?\""
+published: "2026-08-17"
+duration_seconds: 166
+episode_url: "https://www.youtube.com/watch?v=aT9w8hArZmw"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "If Nothing Matters, Are Morals Even Real?"
+
+Video: [https://www.youtube.com/watch?v=aT9w8hArZmw](https://www.youtube.com/watch?v=aT9w8hArZmw)
+Published: 2026-08-17
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=aT9w8hArZmw&t=0s)
+
+Mr. Mozer, if I know we're just apes on a small floating rock in the middle of the universe and nothing really matters, are morals, good and bad, even real? >> I mean, I think you ask a philosophical question, obviously. Um I think that if you believe that there is nothing, then you would make the argument that there are no morals from an objective capital M perspective. Now, there are absolutely rules of behaving in in society that will increase the likelihood of reward and punishment as you live as a human being. And so, uh as much as we can say and this is why I think there's there's low utility in the question. It's one of these things where like introspection is a modern invention, right? Like if you look at, you know, way long ago, right? Like there weren't therapists until like 100 years ago. And so, we we struggle with these types of questions because we have too much time. We don't have to worry about food, we don't have to worry about shelter, and so we we plague our minds with things that that don't really matter. And so, even though we might make the argument that none of it matters, neither does the question. And so, then the question is what like what is the relative utility that I'm going to get from answering this? And so, unless it changes something about your behavior in a meaningful way, then it's really not worth wasting the revolutions on. And so, I think there is a a real there's a there's a real case for productive questions. It does the answer this question, is it going to change my life in some way? And so, for many of you, cuz some of you guys are forgive my French, Uh you ask questions and then there's
+
+## [01:30](https://www.youtube.com/watch?v=aT9w8hArZmw&t=90s)
+
+always more questions, right? And you you you get the answer, but then it changes nothing about your behavior, which actually means that you ask questions as a form of procrastination and you use the answers as a form of entertainment. Real. And so, we should only ask questions where the answers will change our behavior. And so, for, you know, the individual who asked this question, um are Are realistically going to go cuz people people straw man this and say, "Well, if there's no good and evil then I'm going to go around, you know, mugging the streets and lighting things on fire." It's like, yeah, and you will be stopped in short order with men with guns. And they will win. And so, it will be short-lived. And is that really worth it? Probably not. And so, what are we what are we asking about? Will it change anything for you? Probably not cuz you're probably not going to take this question and do anything with it. Um and so, for those types of questions, I kind of just keep living my life and move on. Hope that helped. >> If you like this video and you're a business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely free. And since you're a business owner, I appreciate you and enjoy.

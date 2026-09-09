@@ -1,13 +1,13 @@
 ---
 episode_id: "Z7xWshH-WkE"
-title: "Burnout Is a Broken Reward Cycle"
+title: "What Burnout Actually Is and How to Fix It"
 episode_url: "https://www.youtube.com/watch?v=Z7xWshH-WkE"
 duration_seconds: 180
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Burnout Is a Broken Reward Cycle
+# What Burnout Actually Is and How to Fix It
 
 Video: [https://www.youtube.com/watch?v=Z7xWshH-WkE](https://www.youtube.com/watch?v=Z7xWshH-WkE)
 Duration: 00:03:00

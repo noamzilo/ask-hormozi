@@ -1,0 +1,26 @@
+---
+episode_id: "hxTnbOovMD4"
+title: "\"I Quit My Job but Don't Know What Business to Start\""
+published: "2026-08-15"
+duration_seconds: 117
+episode_url: "https://www.youtube.com/watch?v=hxTnbOovMD4"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "I Quit My Job but Don't Know What Business to Start"
+
+Video: [https://www.youtube.com/watch?v=hxTnbOovMD4](https://www.youtube.com/watch?v=hxTnbOovMD4)
+Published: 2026-08-15
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=hxTnbOovMD4&t=0s)
+
+I recently quit my job to go full time into starting a business, but I am not sure what business to start. I feel stuck in this analysis paralysis. Oh, man. Um Okay, I'm going to give you actually very tactical answer here. Instead of just saying, well, obviously do just pick one. You need to put limitations. All right? You need to add constraints. So, if you have say if I said pick from everything in the world, it's very hard to make that. Right? If I give you 25 different jams to pick from, it's hard to pick your favorite jam. If I give you two, much easier, right? And so, what you need to do is give yourself constraints on the question. This goes for everybody. So, instead of saying, what business should I start? Say, what are the requirements that I have for this business? Do I want to be in person? Do I want to be remote? Do I want this to sell to businesses? Do I want to sell to consumers? Uh do I want to do phone sales or do I want to do a checkout based system? Do I want to get customers from ads or do I want to do it from door knocking? Right? Like, each of these things is going to narrow down >> [clears throat] >> the types of business that will be available to you. Do I want a business that I'm going to have to put capital in to start or do I want one that doesn't require capital? Um do I want to have a business that uses a lot of employees? Is it going to be service based? Do I want it to be technology based or product based? Right? Each of those are decisions that you can make. And if you're like, well, which one? I promise you, all of those can grow into big businesses and it does depend on your goals, but let's assume, for the sake of argument, that you want to make $100,000 a month in profit. All of those paths can lead you there. Right? And so, if you follow my stuff, I would encourage you to sell fewer things to at a more expensive price tag to fewer people because it takes fewer customers to make the amount of money that you want to make to solve your current life
+
+## [01:30](https://www.youtube.com/watch?v=hxTnbOovMD4&t=90s)
+
+problems. Um but, the answer to your question is that you have to add constraints to your question in order to answer it. If you like this video and you're a business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so, you can click here and you can check it out. Again, absolutely free. And since you're a business owner, I appreciate you and enjoy.

@@ -1,13 +1,13 @@
 ---
 episode_id: "A8L7BJcf8Qc"
-title: "You Think Your Business Can't Scale. You're Wrong"
+title: "You're Not Unscalable, You're Just Small"
 episode_url: "https://www.youtube.com/watch?v=A8L7BJcf8Qc"
 duration_seconds: 783
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# You Think Your Business Can't Scale. You're Wrong
+# You're Not Unscalable, You're Just Small
 
 Video: [https://www.youtube.com/watch?v=A8L7BJcf8Qc](https://www.youtube.com/watch?v=A8L7BJcf8Qc)
 Duration: 00:13:03

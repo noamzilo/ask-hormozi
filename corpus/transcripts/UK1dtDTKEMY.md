@@ -1,0 +1,26 @@
+---
+episode_id: "UK1dtDTKEMY"
+title: "\"I Have Several Offers. Which One Should I Promote?\""
+published: "2026-08-16"
+duration_seconds: 136
+episode_url: "https://www.youtube.com/watch?v=UK1dtDTKEMY"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "I Have Several Offers. Which One Should I Promote?"
+
+Video: [https://www.youtube.com/watch?v=UK1dtDTKEMY](https://www.youtube.com/watch?v=UK1dtDTKEMY)
+Published: 2026-08-16
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=UK1dtDTKEMY&t=0s)
+
+So, Apogee Strong. Apogee's a mission-driven education leadership company serving parents, students, and entrepreneurs. What's up, Matt? Revenue comes from coaching programs for men and families, personal growth coaching, K-12 campus licensing, and live events. How would you design financial of the financial engine so each stream grows individually while also multiplying the growth of the others without creating creating drag? Okay, so this is a really important question. So, I'm going to tell you a story to answer your question. So, I had a lady who came to one of the one of the workshops we we did to collect the data to to build all the stuff. And she had a a she had a two-parted business, right? So, she did hair, she taught people to do extensions, I think. And then she also had like business coaching to like help them, you know, grow their business. And so, when she had the hair extensions thing, she said, "Well, you know, this is $10,000 and the other thing is, you know, $4,000 or something like that." And so, she's so she said, "Which should I like which should I be promoting?" I said, "So, what's LTV to CAC?" And so, LTV to CAC for the business thing was 10 to 1. And LTV to CAC for the hair thing to and consumer of like just teaching people how to do extensions was I think it was like 20 or 30 to 1. It's way bigger. It may have been 30 to 1. And so, she had these two businesses, 10 to 1 and 30 to 1. Amazing. It's great to have both either of those numbers, right? And so, she said, you know, "What how how do I promote these things?" And so, I said, "Reality is that you don't have two front ends, you have one front end, which is your 30 to 1, which has a way higher TAM, way more people want to learn how to do hair extensions. And if you can make 30 to 1 on a way bigger TAM, then that's either your only
+
+## [01:30](https://www.youtube.com/watch?v=UK1dtDTKEMY&t=90s)
+
+business or you tack on the 10 to 1 on the back. And so, when answering the question like, "How would I think through the financial engine?" I would look at what's the LTV to CAC between each of these things and how can I create a seamless customer handoff between each each of the business units? And if I can do that then I can create a straight line of business and a money model that I get that my whole team can understand. That's the idea. If you like this video and you're a business owner who wants to break through your current revenue ceiling, I distilled every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling roadmap that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so you can click here and you can check it out. Again, absolutely free. And since you're a business owner, I appreciate you and enjoy.

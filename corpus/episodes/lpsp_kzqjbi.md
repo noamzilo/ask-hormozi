@@ -1,13 +1,13 @@
 ---
 episode_id: "LPsP_KZqJBI"
-title: "\"Do I Double Down or Try the New Thing?\""
+title: "Helping a $2M Glamping Resort Plan Its Next Move"
 episode_url: "https://www.youtube.com/watch?v=LPsP_KZqJBI"
 duration_seconds: 249
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# "Do I Double Down or Try the New Thing?"
+# Helping a $2M Glamping Resort Plan Its Next Move
 
 Video: [https://www.youtube.com/watch?v=LPsP_KZqJBI](https://www.youtube.com/watch?v=LPsP_KZqJBI)
 Duration: 00:04:09

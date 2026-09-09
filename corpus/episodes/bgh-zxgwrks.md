@@ -1,13 +1,13 @@
 ---
 episode_id: "bGH-zxgwRKs"
-title: "He Sells Barbecue. Alex Thought It Was Tongs."
+title: "Helping a $1.2M BBQ Caterer Pick a Lane"
 episode_url: "https://www.youtube.com/watch?v=bGH-zxgwRKs"
 duration_seconds: 395
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# He Sells Barbecue. Alex Thought It Was Tongs.
+# Helping a $1.2M BBQ Caterer Pick a Lane
 
 Video: [https://www.youtube.com/watch?v=bGH-zxgwRKs](https://www.youtube.com/watch?v=bGH-zxgwRKs)
 Duration: 00:06:35

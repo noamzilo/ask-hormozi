@@ -1,13 +1,13 @@
 ---
 episode_id: "tIYQ2Qh33jE"
-title: "The Problem With Education: Graduation"
+title: "Helping a Language School Fix Its LTV Problem"
 episode_url: "https://www.youtube.com/watch?v=tIYQ2Qh33jE"
 duration_seconds: 255
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# The Problem With Education: Graduation
+# Helping a Language School Fix Its LTV Problem
 
 Video: [https://www.youtube.com/watch?v=tIYQ2Qh33jE](https://www.youtube.com/watch?v=tIYQ2Qh33jE)
 Duration: 00:04:15

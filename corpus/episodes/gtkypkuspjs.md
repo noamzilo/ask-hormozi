@@ -1,13 +1,13 @@
 ---
 episode_id: "GTKYPkUsPJs"
-title: "\"How Do I Structure an Equity Partnership?\""
+title: "\"Should I Take Equity Instead of Fees?\""
 episode_url: "https://www.youtube.com/watch?v=GTKYPkUsPJs"
 duration_seconds: 219
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# "How Do I Structure an Equity Partnership?"
+# "Should I Take Equity Instead of Fees?"
 
 Video: [https://www.youtube.com/watch?v=GTKYPkUsPJs](https://www.youtube.com/watch?v=GTKYPkUsPJs)
 Duration: 00:03:39

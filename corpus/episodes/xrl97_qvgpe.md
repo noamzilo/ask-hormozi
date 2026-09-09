@@ -1,13 +1,13 @@
 ---
 episode_id: "xrl97_QVgpE"
-title: "What to Actually Do With Your Rage"
+title: "How Do You Actually Deal With Rage?"
 episode_url: "https://www.youtube.com/watch?v=xrl97_QVgpE"
 duration_seconds: 392
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# What to Actually Do With Your Rage
+# How Do You Actually Deal With Rage?
 
 Video: [https://www.youtube.com/watch?v=xrl97_QVgpE](https://www.youtube.com/watch?v=xrl97_QVgpE)
 Duration: 00:06:32

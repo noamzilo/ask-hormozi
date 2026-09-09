@@ -1,13 +1,13 @@
 ---
 episode_id: "xv2TOH_5F6A"
-title: "Enterprise Deals Nearly Checkmated His Company"
+title: "Helping a $4M SaaS Survive Long Sales Cycles"
 episode_url: "https://www.youtube.com/watch?v=xv2TOH_5F6A"
 duration_seconds: 386
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Enterprise Deals Nearly Checkmated His Company
+# Helping a $4M SaaS Survive Long Sales Cycles
 
 Video: [https://www.youtube.com/watch?v=xv2TOH_5F6A](https://www.youtube.com/watch?v=xv2TOH_5F6A)
 Duration: 00:06:26

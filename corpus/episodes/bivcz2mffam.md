@@ -1,13 +1,13 @@
 ---
 episode_id: "bivCz2MffaM"
-title: "You're in a Different Season, Not Behind"
+title: "You're Not Behind. You're Just Early"
 episode_url: "https://www.youtube.com/watch?v=bivCz2MffaM"
 duration_seconds: 117
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# You're in a Different Season, Not Behind
+# You're Not Behind. You're Just Early
 
 Video: [https://www.youtube.com/watch?v=bivCz2MffaM](https://www.youtube.com/watch?v=bivCz2MffaM)
 Duration: 00:01:57

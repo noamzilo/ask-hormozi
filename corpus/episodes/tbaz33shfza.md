@@ -1,13 +1,13 @@
 ---
 episode_id: "TbaZ33shFZA"
-title: "Why Chasing Happiness Never Worked for Me"
+title: "I Stopped Chasing Happiness. Then I Found It"
 episode_url: "https://www.youtube.com/watch?v=TbaZ33shFZA"
 duration_seconds: 100
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Why Chasing Happiness Never Worked for Me
+# I Stopped Chasing Happiness. Then I Found It
 
 Video: [https://www.youtube.com/watch?v=TbaZ33shFZA](https://www.youtube.com/watch?v=TbaZ33shFZA)
 Duration: 00:01:40

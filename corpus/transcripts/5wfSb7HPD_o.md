@@ -1,0 +1,30 @@
+---
+episode_id: "5wfSb7HPD_o"
+title: "Successful People Do 100 Times More Than You"
+published: "2026-08-02"
+duration_seconds: 269
+episode_url: "https://www.youtube.com/watch?v=5wfSb7HPD_o"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Successful People Do 100 Times More Than You
+
+Video: [https://www.youtube.com/watch?v=5wfSb7HPD_o](https://www.youtube.com/watch?v=5wfSb7HPD_o)
+Published: 2026-08-02
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=5wfSb7HPD_o&t=0s)
+
+One of the great fascinations I have, and almost one of the unteachables, is self I think it's self-awareness. >> Yeah, I'd say judgment, yeah. >> Judgment again, yeah. Cuz I Have you ever had someone come up to you and say something grandio They want to go to the moon, let's say, hypothetical. And you look at them and you go, you're not a spaceman. Do you Do you know what I mean? >> [laughter] >> And how do you How do you What How do you then give them that advice, which is like raise one's self-awareness, know what you're good at and what you're bad at? >> I think what people are are trying to get is a an understanding a more accurate understanding of base reality. And the people who are achieving the things that you want to achieve, and you haven't been able to, fundamentally, if you're doing stuff and what you want to have happen is not happening, your model of the world is either incorrect or the variables you have are incorrect. >> How do you cultivate a more accurate vision of reality? >> So, I'm I'm a big believer in behaviorism. >> What's that? >> Operant conditioning, which is basically how you train machines, how they figured out how to train AI, which is reinforcement training, is the exact same way you train humans. >> Okay. >> And so, when you see yourself as the subject that is being trained, then we can make better predictions of will people buy, will people take this offer. Let's say I've got a grandpa, and he doesn't want to take his medicine. And the medicine the doctor said was going to extend his life by 10 years. Okay. The nurse is at home with me, and she's going to try and give grandpa the the pill. And he says, "It tastes like I don't want to have it." He just brushes her away.
+
+## [01:30](https://www.youtube.com/watch?v=5wfSb7HPD_o&t=90s)
+
+She comes back, she throws her hands up, and she's like, "You lead a horse to water, you can't make it drink, right?" The operationalist or the behaviorist would say, "No, you've made many other options the more likely option than taking the pill." And so, what we need to do is make the pill the nicest and easiest option available to him. And so, the first thing you would do is you'd crush the pill up. And then, I would say, "Okay, let's put it in some lemonade. Put it in the in the fridge, make it ice cold." All right, I'm going to bring out some peanuts that are salty, and I'm going to put it in front of the grandpa. Right? And then I'm going to come out with a you know, a chessboard or backgammon board and I'm going to sit in front of him and set it all up and say, "Hey, I know you said you wanted to play backgammon and I've said no the last 3 weeks." Here's the lemonade. Do you want to play? If you finish the lemonade we can play. How likely is it that grandpa now drinks the lemonade? Super high. But at the end of the day we just we didn't persuade. We arranged the conditions to maximize the likelihood of the outcome that we wanted. What people miss is that the the amount of attack vectors that people who succeed approach problem with is orders of magnitude greater than someone who is starting out. As they're like, "I talked to three people and that was it and they said they didn't want it." And I I tell this this story cuz it was it was one of those big moments for me which is I I had a mentor. He said, "You should put some flyers out." That's how he advertised. He had a big chain, 22 locations. And I was like, "All right, I'll put some flyers out." I put 300 out. Um and then nothing happened. Uh well, one person called and they said I dinged his car and then I was like
+
+## [03:00](https://www.youtube.com/watch?v=5wfSb7HPD_o&t=180s)
+
+>> [laughter] >> Thank god he didn't I didn't have any money. Um so he called me up or I called him like a week or two later and he's like, "Oh, how did the you know, how did the flyers go?" And I was like, I was ready to I was like, "I'm going to show you. Yeah, I'm going to show you." Dude, nothing happened, man. And he didn't even like I was like I was waiting for him to try and fight me and he was like, "Well, what was your test size?" I was like, "Hm?" I was like, "I put out 300 flyers." And he was like, "Yeah, it's tough to know if anything works at 300. He's like, we usually put out 5,000 um per test batch until we know it works." He said then we do 3,000 a day after that. And so he was doing 150,000 flyers a month. And I'd put out 300. >> [snorts] >> And so as much as people don't think that like it's like work harder, it's the the volume of activity and output that people who are 100 steps ahead of you really is often times 100 times more. Now, it seems unfathomable cuz you're looking at the top of the hill and it's like, how do I get there? But, you start by making one. >> Mhm. >> And then you learn through how painful the inefficiency is. Like when you're editing that you're doing the split test for the headlines at 300 of them at a time, you learn because you're like, this is so painful. It works, but my god, is it painful. That that is what motivates you because you want the payoff, but you don't want the pain to figure out ways to make it more efficient. And then when it becomes efficient, you did the scarce work that no one else wants to do cuz no one even knows it works as well as it does. >> Mhm. >> And then all of a sudden you have that um you have a scarce competitive advantage over everyone else. >> Mhm.

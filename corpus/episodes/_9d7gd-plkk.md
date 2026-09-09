@@ -1,13 +1,13 @@
 ---
 episode_id: "_9D7gd-PlKk"
-title: "Businesses Don't Die, Founders Quit"
+title: "The Real Reason Most Businesses Die"
 episode_url: "https://www.youtube.com/watch?v=_9D7gd-PlKk"
 duration_seconds: 244
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Businesses Don't Die, Founders Quit
+# The Real Reason Most Businesses Die
 
 Video: [https://www.youtube.com/watch?v=_9D7gd-PlKk](https://www.youtube.com/watch?v=_9D7gd-PlKk)
 Duration: 00:04:04

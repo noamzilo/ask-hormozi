@@ -1,13 +1,13 @@
 ---
 episode_id: "Qtwx3yrns00"
-title: "Why Winning the Lottery Would Have Ruined Me"
+title: "Would You Actually Want to Win the Lottery?"
 episode_url: "https://www.youtube.com/watch?v=Qtwx3yrns00"
 duration_seconds: 314
 channel: "MoreMozi"
 source: "youtube_catalog"
 ---
 
-# Why Winning the Lottery Would Have Ruined Me
+# Would You Actually Want to Win the Lottery?
 
 Video: [https://www.youtube.com/watch?v=Qtwx3yrns00](https://www.youtube.com/watch?v=Qtwx3yrns00)
 Duration: 00:05:14
